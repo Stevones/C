@@ -1,0 +1,13 @@
+Git Cheatsheet:
+
+
+
+Generate SSH Key:ssh-keygen -t ed25519 -C <youremail>
+
+
+Link Key with GitHub:
+
+
+1. Get Key:
+
+cat ~/.ssh/id_ed25519.pub
